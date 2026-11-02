@@ -25,9 +25,9 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ## Hardware
 
-![DevLab I2C HX0805-C2 Vibration Sensor top view](resources/unit_top_v_0_0_1ue0144_x0805_c2_vibration_sensor_3D.png)
+![DevLab I2C HX0805-C2 Vibration Sensor top view](resources/unit_top_v_1_0_0_ue0144_x0805_vibration_sensor.png)
 
-![DevLab I2C HX0805-C2 Vibration Sensor bottom view](resources/unit_bottom_v_0_0_1ue0144_x0805_c2_vibration_sensor_3D.png)
+![DevLab I2C HX0805-C2 Vibration Sensor bottom view](resources/unit_btm_v_1_0_0_ue0144_x0805_vibration_sensor.png)
 
 ### Schematic
 

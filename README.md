@@ -3,7 +3,7 @@
 The DevLab I2C HX0805-C2 Vibration Sensor is an I2C vibration sensing module in the UNIT Electronics DevLab family.
 
 <div align="center">
-  <img src="hardware/resources/unit_top_v_0_0_1ue0144_x0805_c2_vibration_sensor_3D.png" width="450px" alt="DevLab I2C HX0805-C2 Vibration Sensor top view">
+  <img src="hardware/resources/unit_top_v_1_0_0_ue0144_x0805_vibration_sensor.png" width="450px" alt="DevLab I2C HX0805-C2 Vibration Sensor top view">
   <p><em>DevLab I2C HX0805-C2 Vibration Sensor</em></p>
 </div>
 

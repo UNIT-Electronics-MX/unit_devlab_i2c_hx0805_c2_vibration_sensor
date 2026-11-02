@@ -2,7 +2,7 @@
 
 ### **9.1 Schematic Status** {.section-page}
 
-The [UE0144 Rev 0.0.1 schematic](../../../hardware/unit_sch_v_0_0_1_ue0144_hx0805_c2_vibration_sensor.pdf) is included from the selected source package. Check the revision against the physical board before using it for wiring or manufacturing.
+The [UE0144 Rev 1.0.0 schematic](../../../hardware/unit_sch_v_1_0_0_ue0144_x0805_vibration_sensor.pdf) is included from the selected source package. Check the revision against the physical board before using it for wiring or manufacturing.
 
 ### **9.2 Document Control**
 
