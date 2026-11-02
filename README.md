@@ -28,8 +28,6 @@ The DevLab I2C HX0805-C2 Vibration Sensor is an I2C vibration sensing module in 
 | Available visuals | Product-specific top and bottom board views |
 | Factory I2C Address | `0x25` (7-bit) |
 | DDP Device ID | `0x0105` |
-| Firmware Status | Unstable |
-| Firmware .bin Date | 2026-10-21 11:56 CST |
 
 ## Applications
 
