@@ -37,13 +37,13 @@ The DevLab I2C HX0805-C2 Vibration Sensor is an I2C vibration sensing module in 
 
 ## Resources
 
-- [Schematic diagram](hardware/unit_sch_v_0_0_1_ue0144_hx0805_c2_vibration_sensor.pdf)
+- [Schematic diagram](hardware/unit_sch_v_1_0_0_ue0144_x0805_vibration_sensor.pdf)
 - [Hardware files and board views](hardware/README.md)
 - [Product reference source](tools/product-reference/README.md)
 - [Generic I2C scanner examples](software/README.md)
 - [Controller firmware repository](https://github.com/UNIT-Electronics-Labs/unit_firmware_i2c_hx0805_py32)
 
-The included schematic is revision 0.0.1; confirm it matches the physical board. Check the product-specific pinout or schematic for wiring and electrical limits.
+The latest schematic is revision 1.0.0; confirm it matches the physical board. Check the product-specific pinout or schematic for wiring and electrical limits.
 
 The Arduino support-library link has not been confirmed for this module.
 

@@ -31,7 +31,7 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ### Schematic
 
-[UE0144 Rev 0.0.1 schematic](unit_sch_v_0_0_1_ue0144_hx0805_c2_vibration_sensor.pdf)
+[UE0144 Rev 1.0.0 schematic](unit_sch_v_1_0_0_ue0144_x0805_vibration_sensor.pdf)
 
 ## Pinout
 
@@ -57,7 +57,7 @@ A verified product-specific connector map is not included in the available sourc
 
 The DevLab I2C HX0805-C2 Vibration Sensor is an I2C vibration sensing module in the UNIT Electronics DevLab family.
 
-The available electrical schematic is revision 0.0.1; confirm it matches the assembled board before using its signal or power connections.
+The latest electrical schematic is revision 1.0.0; confirm it matches the assembled board before using its signal or power connections.
 
 ## Applications
 
@@ -69,4 +69,4 @@ The available electrical schematic is revision 0.0.1; confirm it matches the ass
 
 - [Product Reference](../docs/hardware/unit_product_reference_v_1_1_0_ue0144_devlab_i2c_hx0805_c2_vibration_sensor.pdf)
 - [Product Reference source](../tools/product-reference/README.md)
-- [Electrical schematic](unit_sch_v_0_0_1_ue0144_hx0805_c2_vibration_sensor.pdf)
+- [Electrical schematic](unit_sch_v_1_0_0_ue0144_x0805_vibration_sensor.pdf)
