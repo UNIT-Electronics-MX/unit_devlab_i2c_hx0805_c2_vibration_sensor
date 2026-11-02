@@ -1,7 +1,5 @@
 # DevLab I2C HX0805-C2 Vibration Sensor
 
-**MPN: UE0144**
-
 The DevLab I2C HX0805-C2 Vibration Sensor is an I2C vibration sensing module in the UNIT Electronics DevLab family.
 
 <div align="center">
