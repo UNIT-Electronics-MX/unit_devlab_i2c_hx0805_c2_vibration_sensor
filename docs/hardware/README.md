@@ -35,19 +35,18 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ## Pinout
 
-A product-specific pinout drawing was not included in the selected source package.
-
-Board renders show the supplied layout. Confirm electrical limits, connector
-orientation, and mechanical tolerances against product-specific drawings before
-using the board in a final assembly.
+- [English pinout](./unit_pinout_v_2_0_0_ue0144_x0805_vibration_sensor_en.pdf)
+- [Spanish pinout](./unit_pinout_v_2_0_0_ue0144_x0805_vibration_sensor_es.pdf)
 
 ## Dimensions
 
-A controlled board-dimension drawing is not included in the available product-specific files.
+- [Board dimensions preview](./resources/unit_dimensions_v_2_0_0_ue0144_x0805_vibration_sensor.png)
+- [Board dimensions PDF](./unit_dimensions_v_2_0_0_ue0144_x0805_vibration_sensor.pdf)
 
 ## Topology
 
-A separate board-topology drawing is not included in the available product-specific files.
+- [Board topology](./resources/unit_topology_v_2_0_0_ue0144_x0805_vibration_sensor.png)
+- [STEP model](./mechanics/unit_3d_v_2_0_0_ue0144_x0805_vibration_sensor.step)
 
 ## Pin & Connector Layout
 
